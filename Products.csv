@@ -1,0 +1,11 @@
+Product ID,Category,Price,Stock Quantity,Rating
+101,Electronics,699.99,50.0,4.5
+102,Electronics,1299.99,30.0,4.7
+103,Accessories,199.99,100.0,4.2
+104,,499.99,20.0,4.0
+105,Accessories,249.99,150.0,4.3
+106,Electronics,79.99,300.0,
+107,Accessories,89.99,120.0,4.1
+108,Electronics,19.99,,4.8
+109,Electronics,299.99,75.0,4.6
+110,Electronics,,25.0,3.9
